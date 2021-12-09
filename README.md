@@ -1,4 +1,3 @@
 ﻿# SteamGameIdleXDiscordBotLmaoXD
-Please End Me
 
 
